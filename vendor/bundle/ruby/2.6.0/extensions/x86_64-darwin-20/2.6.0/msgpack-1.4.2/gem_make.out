@@ -1,5 +1,5 @@
 current directory: /Users/namihirashinji/Ruby/weather-line-bot/vendor/bundle/ruby/2.6.0/gems/msgpack-1.4.2/ext/msgpack
-/Users/namihirashinji/.rbenv/versions/2.6.3/bin/ruby -I /Users/namihirashinji/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210403-12279-1e4q4a5.rb extconf.rb
+/Users/namihirashinji/.rbenv/versions/2.6.6/bin/ruby -I /Users/namihirashinji/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210404-46801-13y3hgp.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... yes
 checking for rb_str_replace() in ruby.h... yes
@@ -40,4 +40,4 @@ linking shared-object msgpack/msgpack.bundle
 
 current directory: /Users/namihirashinji/Ruby/weather-line-bot/vendor/bundle/ruby/2.6.0/gems/msgpack-1.4.2/ext/msgpack
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20210403-12279-yo2pzs/msgpack
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20210404-46801-kngzis/msgpack

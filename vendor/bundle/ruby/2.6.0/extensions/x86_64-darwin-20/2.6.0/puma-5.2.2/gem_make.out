@@ -1,5 +1,5 @@
 current directory: /Users/namihirashinji/Ruby/weather-line-bot/vendor/bundle/ruby/2.6.0/gems/puma-5.2.2/ext/puma_http11
-/Users/namihirashinji/.rbenv/versions/2.6.3/bin/ruby -I /Users/namihirashinji/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210403-12279-9o28ab.rb extconf.rb
+/Users/namihirashinji/.rbenv/versions/2.6.6/bin/ruby -I /Users/namihirashinji/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210404-46801-ju4ao6.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -22,4 +22,4 @@ linking shared-object puma/puma_http11.bundle
 
 current directory: /Users/namihirashinji/Ruby/weather-line-bot/vendor/bundle/ruby/2.6.0/gems/puma-5.2.2/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20210403-12279-rad7hc/puma
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20210404-46801-ibvnva/puma
